@@ -68,6 +68,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             ProductScreen()
+            //push code sang nhanh master
         }
     }
 }
